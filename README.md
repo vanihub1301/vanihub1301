@@ -27,7 +27,7 @@ I am a Software Engineer with experience in full-stack development using Node.js
   </p>
   <h4><b>Backend & Database</b></h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,nest,express,mongodb" alt="Backend Skills" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nest,express,mysql,mongodb" alt="Backend Skills" />
   </p>
   <h4><b>Mobile & AR/MR</b></h4>
   <p>
