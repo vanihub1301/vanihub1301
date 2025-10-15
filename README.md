@@ -47,11 +47,11 @@
 <h2 align="center">📊 My GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="Hung Nguyen's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=vanihub1301&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="Hung Nguyen's GitHub stats">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanihub1301&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages">
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=vanihub1301&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <h2 align="center">📫 Let's Connect!</h2>
