@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
-
 <div align="center">
   <a href="https://github.com/vanihub1301">
     <img src="https://avatars.githubusercontent.com/u/192573150?v=4" alt="Hung Nguyen" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 4px solid #0077B5; box-shadow: 0 0 20px #0077B5;">
