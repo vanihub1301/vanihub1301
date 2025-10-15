@@ -42,7 +42,7 @@ I am a Software Engineer with experience in full-stack development using Node.js
   </p>
 </div>
 
-<h2 align="center">📊 My GitHub Stats</h2>
+<!-- <h2 align="center">📊 My GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vanihub1301&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="Hung Nguyen's GitHub stats">
@@ -50,7 +50,7 @@ I am a Software Engineer with experience in full-stack development using Node.js
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanihub1301&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages">
   <br/>
   <img src="https://streak-stats.demolab.com/?user=vanihub1301&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+</div> -->
 
 <h2 align="center">📫 Let's Connect!</h2>
 
