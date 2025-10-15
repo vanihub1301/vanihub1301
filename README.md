@@ -1,112 +1,68 @@
-Hung Nguyen - Software Developer
-I am a Software Engineer with experience in full-stack development using Node.js. My skill set includes database management and cloud technologies. I enjoy building scalable, efficient systems and working across both the backend and frontend to deliver seamless user experiences. I am committed to continuous learning, especially in cloud computing and microservices, and to bringing innovative solutions and value to the company.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
+<div align="center">
+  <a href="https://github.com/vanihub1301">
+    <img src="https://avatars.githubusercontent.com/u/192573150?v=4" alt="Hung Nguyen" width="200" height="200" style="border-radius: 50%; object-fit: cover; border: 4px solid #0077B5; box-shadow: 0 0 20px #0077B5;">
+  </a>
+</div>
 
+<h1 align="center">👋 Hello, I'm Hung</h1>
 
-🛠️ Technologies & Skills
-<table>
-<tr>
-<td align="center" width="120">
-<a href="#-machine-learning">
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0077B5&center=true&vCenter=true&width=435&lines=Software+Developer;Full-Stack+Engineer;Mobile+Developer;" alt="Typing SVG" />
+</p>
 
+<h2 align="center">🚀 About Me</h2>
 
+<p align="center">
+[cite_start]I am a Software Engineer with experience in full-stack development using Node.js[cite: 11]. [cite_start]My skill set includes database management and cloud technologies[cite: 12]. [cite_start]I enjoy building scalable, efficient systems and working across both the backend and frontend to deliver seamless user experiences[cite: 12]. [cite_start]I am committed to continuous learning, especially in cloud computing and microservices[cite: 13].
+</p>
 
-Machine Learning 
-</td>
-<td align="center" width="120">
-<a href="#-internet-of-things-iot">
-<img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-</a>
+<h2 align="center">🛠️ My Tech Stack</h2>
 
+<div align="center">
+  <h4><b>Frontend</b></h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=vue,nuxtjs,react" alt="Frontend Skills" />
+  </p>
+  <h4><b>Backend & Database</b></h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Skills" />
+  </p>
+  <h4><b>Mobile & AR/MR</b></h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,unity,cs" alt="Mobile Skills" />
+  </p>
+  <h4><b>Specialized Fields</b></h4>
+  <p>
+    <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
+    <img src="https://img.shields.io/badge/IoT-00979D?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="IoT"/>
+  </p>
+  <h4><b>Tools & Platforms</b></h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,github,figma,docker" alt="Tools" />
+  </p>
+</div>
 
+<h2 align="center">📊 My GitHub Stats</h2>
 
-Internet of Things 
-</td>
-<td align="center" width="120">
-<a href="#-react-native">
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" alt="Hung Nguyen's GitHub stats">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" alt="Top Languages">
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
+<h2 align="center">📫 Let's Connect!</h2>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/hung-nguyen-a46872291" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:vani.mymine@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
-React Native 
-</td>
-<td align="center" width="120">
-<a href="#-vuejs--nuxtjs">
-<img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-</a>
-
-
-
-Vue.js 
-</td>
-<td align="center" width="120">
-<a href="#-vuejs--nuxtjs">
-<img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white" />
-</a>
-
-
-
-Nuxt.js 
-</td>
-</tr>
-<tr>
-<td align="center" width="120">
-<a href="#-nodejs">
-<img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white" />
-</a>
-
-
-
-Node.js 
-</td>
-<td align="center" width="120">
-<a href="#-unity--c">
-<img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
-</a>
-
-
-
-Unity 
-</td>
-<td align="center" width="120">
-<a href="#-unity--c">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-</a>
-
-
-
-C# 
-</td>
-<td align="center" width="120">
-<a href="#-vuforia">
-<img src="https://img.shields.io/badge/Vuforia-5D2D8D?style=for-the-badge&logo=vuforia&logoColor=white" />
-</a>
-
-
-
-Vuforia 
-</td>
-<td align="center" width="120">
-<a href="#-figma">
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</a>
-
-
-
-Figma 
-</td>
-</tr>
-</table>
-
-📫 Get In Touch
-
-Email: vani.mymine@gmail.com 
-
-
-LinkedIn: linkedin.com/in/hung-nguyen-a46872291 
-
-
-Mobile: 0399427359 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
