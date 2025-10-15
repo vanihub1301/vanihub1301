@@ -15,7 +15,7 @@
 <h2 align="center">🚀 About Me</h2>
 
 <p align="center">
-[cite_start]I am a Software Engineer with experience in full-stack development using Node.js[cite: 11]. [cite_start]My skill set includes database management and cloud technologies[cite: 12]. [cite_start]I enjoy building scalable, efficient systems and working across both the backend and frontend to deliver seamless user experiences[cite: 12]. [cite_start]I am committed to continuous learning, especially in cloud computing and microservices[cite: 13].
+I am a Software Engineer with experience in full-stack development using Node.js. My skill set includes database management and cloud technologies. I enjoy building scalable, efficient systems and working across both the backend and frontend to deliver seamless user experiences.
 </p>
 
 <h2 align="center">🛠️ My Tech Stack</h2>
@@ -27,7 +27,7 @@
   </p>
   <h4><b>Backend & Database</b></h4>
   <p>
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" alt="Backend Skills" />
+    <img src="https://skillicons.dev/icons?i=nodejs,nest,express,mongodb" alt="Backend Skills" />
   </p>
   <h4><b>Mobile & AR/MR</b></h4>
   <p>
